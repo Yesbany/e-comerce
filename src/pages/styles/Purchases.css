@@ -1,0 +1,18 @@
+.purchases {
+    max-width: 1200px;
+    padding: 20px;    
+    margin: 0 auto;
+}
+
+.purchases__title {
+    font-size: 25px;
+    color: var(--dark-gray);
+    margin-bottom: 80px;
+    
+}
+
+.purchases__card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
